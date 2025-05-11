@@ -1,6 +1,6 @@
 # Calculadora de IMC 📱
 
-![preview](/preview.jpeg)
+![preview](./preview.jpeg)
 
 > Primeiro projeto em **React Native**, criado durante o curso da OneBitCode
 
