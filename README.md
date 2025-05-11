@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+# Calculadora de IMC 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![preview](/preview.jpeg)
 
-## Get started
+> Primeiro projeto em **React Native**, criado durante o curso da OneBitCode
 
-1. Install dependencies
+Este é um projeto básico, mas cheio de aprendizados! Desenvolvi essa **calculadora de IMC** durante o curso de **React Native da OneBitCode**, com o objetivo de entender os fundamentos do desenvolvimento mobile com React Native e começar a construir minhas primeiras interfaces nativas. O app permite que o usuário insira peso e altura, calcule seu IMC e visualize os resultados, armazenando o histórico de cálculos.
 
-   ```bash
-   npm install
-   ```
+## 🚀 Tecnologias
 
-2. Start the app
+* React Native
+* TypeScript
+* Expo
+* Git/GitHub
 
-   ```bash
-   npx expo start
-   ```
+## 💻 O que aprendi
 
-In the output, you'll find options to open the app in a
+* **Criação de componentes reutilizáveis com React Native**, entendendo a estrutura de uma aplicação mobile e como dividir a interface em partes funcionais.
+* **Manipulação de listas com `FlatList`** para exibir o histórico de IMCs calculados.
+* **Estilização com `StyleSheet`** e boas práticas na organização visual do app.
+* **Utilização do `KeyboardAvoidingView` e tratamento de inputs**, melhorando a usabilidade no mobile.
+* **Publicação e testes com Expo**, facilitando a visualização e testes em dispositivos reais.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📲 Funcionalidades
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* Inserção de altura e peso
+* Cálculo do IMC
+* Exibição do resultado
+* Histórico dos últimos IMCs calculados
 
-## Get a fresh project
+## 📝 Observações
 
-When you're ready, run:
+Esse projeto marcou o início da minha jornada com React Native e desenvolvimento mobile. Mesmo sendo um app simples, ele me deu uma boa base para seguir evoluindo na área e já me ajudou a entender como é desenvolver apps que podem rodar tanto em Android quanto iOS.
 
-```bash
-npm run reset-project
-```
+## 📨 Contato
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+* [guilhermemillerblack@gmail.com](mailto:guilhermemillerblack@gmail.com)
